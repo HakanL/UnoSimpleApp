@@ -5,10 +5,36 @@
     xmlns:local="using:App7"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:utu="using:Uno.Toolkit.UI"
     mc:Ignorable="d"    
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+<!--    <utu:AutoLayout>
+        <TextBlock Text="Hello, world!" Margin="20" FontSize="30" />
+        <TextBlock Text="This is a test text." />
+        <Button Content=" button 1" />
+        <Button Content=" button 2" />
+        <Button Content=" button 3" />
+        <Button Content=" button 4" />
+        <Button Content=" button 5" />
+        <Button Content=" button 6" />
+        <Button Content=" button 7" />
+        <Button Content=" button 8" />
+        <Button Content=" button 9" />
+        <Button Content=" button 10" />
+        <Button Content=" button 11" />
+        <Button Content=" button 12" />
+        <Button Content=" button 13" />
+        <Button Content=" button 14" />
+        <Button Content=" button 15" />
+        <Button Content=" button 16" />
+        <Button Content=" button 17" />
+        <Button Content=" button 18" />
+        <Button Content=" button 19" />
+        <Button Content=" button 20" />
+    </utu:AutoLayout>-->
     <Grid>
-      <TextBlock Text="Hello, world!" Margin="20" FontSize="30" />
+        <TextBlock Text="Hello, world!" Margin="20" FontSize="30" />
+
     </Grid>
 </Page>
