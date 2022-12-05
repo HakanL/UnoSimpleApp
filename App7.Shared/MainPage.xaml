@@ -9,7 +9,7 @@
     mc:Ignorable="d"    
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <utu:AutoLayout>
+    <!--<utu:AutoLayout>
         <TextBlock Text="Hello, world!" Margin="20" FontSize="30" />
         <TextBlock Text="This is a test text." />
         <Button Content=" button 1" />
@@ -32,8 +32,8 @@
         <Button Content=" button 18" />
         <Button Content=" button 19" />
         <Button Content=" button 20" />
-    </utu:AutoLayout>
-    <!--<Grid>
+    </utu:AutoLayout>-->
+    <Grid>
         <TextBlock Text="Hello, world!" Margin="20" FontSize="30" />
-    </Grid>-->
+    </Grid>
 </Page>
